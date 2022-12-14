@@ -1,0 +1,63 @@
+.container
+{
+    margin-bottom: 100px;
+}
+
+.icon img
+{
+    width: 200px;
+}
+.top-box
+{
+    background-color: #F0FFF0;
+}
+.box-1
+{
+    padding-left: 50px;
+}
+.button-style
+{
+    padding: 5px 20px;
+    background-color:#21B573;
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+}
+.green-color
+{
+    color: #21B573;
+}
+.red-color
+{
+    color: #FD511A;
+}
+.image-siz img
+{
+    width: 65px;
+}
+.topic-txt
+{
+    text-align: center;
+}
+.topic-card
+{
+    padding: 30px 50px;
+    border: none;
+    box-shadow: 10px 10px 30px #e5e5e5;
+}
+.online-courses-footer img
+{
+    width: 20px;
+}
+.online-courses-footer p
+{
+    float: right;
+    display: flex;
+    align-items: center;
+}
+.online-courses-footer
+{
+    padding: 5px 8px;
+    border: none;
+    box-shadow: 10px 10px 30px #e5e5e5;
+}
