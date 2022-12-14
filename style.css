@@ -61,3 +61,27 @@
     border: none;
     box-shadow: 10px 10px 30px #e5e5e5;
 }
+.testimonial img
+{
+    width: 120px;
+    float: right;
+}
+.testimonial
+{
+    display: flex;
+    align-items: center;
+}
+.footer-color
+{
+    color: #fff;
+    padding: 50px 20px;
+}
+.footer-bg
+{
+    background-color: #282531;
+    color: #fff;
+}
+.Copyright-2020-ahsan
+{
+    padding-bottom: 50px;
+}
